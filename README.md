@@ -31,8 +31,8 @@ Este repositorio contiene scripts en Python para calcular volúmenes, masas y su
   - Calcula la masa promedio y sus incertidumbres utilizando una balanza digital.
   - Contiene un array (`masas_trozos`) que puedes modificar con tus propios valores de masa en gramos.
   - Incluye comentarios sobre las fórmulas utilizadas en el cálculo.
- 
-  - **`Contacto`**:
+
+-**`Contacto`**:
   - jrodriguezvar@unal.edu.co
 
 ## Requisitos
